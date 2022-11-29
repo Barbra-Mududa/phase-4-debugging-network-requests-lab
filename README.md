@@ -67,7 +67,10 @@ developing your own process.
 - Update the number of likes for a toy
 
   - How I debugged:
+  I changed the controller method typing error from plural to singular
 
 - Donate a toy to Goodwill (and delete it from our database)
+  
 
   - How I debugged:
+  I included the  destroy route that was missing in the routes.rb file
